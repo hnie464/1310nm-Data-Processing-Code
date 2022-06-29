@@ -5,7 +5,7 @@ The Python scripts provided will allow for the processing of the 1310nm OCT data
 How to Use: 
 * Open the files using your preferred Python code editor*.
 
-* In the 'TDMSProcessGallery (1310nm).py' code, write the file path to the folder containing your 1310nm data.
+* In the 'TDMSProcessGallery (1310nm).py' code, write the file path to the folder containing your 1310nm data (Line 23).
 
 * Run the code**. 
 
