@@ -9,7 +9,7 @@ How to Use:
 
 * Run the code**. 
 
->\* I use Spyder through the Anaconda application, you will need to download tifffle through the Anaconda terminal. \
+>\* I use Spyder through the Anaconda application. You will need to download tifffle and npTDMS through the Anaconda Prompt terminal, the install lines are provided at the top of the code in 'TDMSProcessGallery (1310nm).py'. \
 \** You may need to run the code multiple times if an error says there already exists a file. After two attempts, it should have created the two required output folders.
 
 \
